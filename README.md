@@ -1,7 +1,8 @@
 ### Hi there My name is Thanyasit 👋
-I'am a mechatronics engineer but you can call me Game. I am excited to introduce myself and share my passion for technology and innovation. I was born in Bangkok, Thailand in 2540 and have always been fascinated by the world of computer games. This interest led me to explore software programs and how they could be used to optimize performance.
+I am a mechatronics engineer but you can call me Game. I am excited to introduce myself and share my passion for technology and innovation. I was born in Bangkok, Thailand in 2540 and have always been fascinated by the world of computer games. This interest led me to explore software programs and how they could be used to optimize performance.
 
-![123](relative/path/to/Windows.png)
+<img src="https://i0.wp.com/saixiii.com/wp-content/uploads/2017/04/linux-banner.jpg?w=600&ssl=1" width="300"><img src="https://blogs.windows.com/wp-content/uploads/prod/2020/08/windows-logo-social.png" width="300">
+
 
 As I pursued my studies in electronics, I discovered the fascinating world of Embedded systems. I was captivated by the idea of small devices that could automate everything and make our lives easier. I enjoyed the challenge of creating programs to perform specific tasks and bring new ideas to life.
 

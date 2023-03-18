@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Thanyasit,I'am a Mechatronics Engineer
+My name is Thanyasit, I'am a Mechatronics Engineer
 <!--
 **Thanyasit/Thanyasit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,8 +1,9 @@
-### Hi there My name is Thanyasit 👋
+<h1>Hi there My name is Thanyasit 👋</h1>
+<p align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Mecha_workaround.svg/1200px-Mecha_workaround.svg.png" width="300">
+</p>
+
 I am a mechatronics engineer but you can call me Game. I am excited to introduce myself and share my passion for technology and innovation. I was born in Bangkok, Thailand in 2540 and have always been fascinated by the world of computer games. This interest led me to explore software programs and how they could be used to optimize performance.
-
-<img src="https://i0.wp.com/saixiii.com/wp-content/uploads/2017/04/linux-banner.jpg?w=600&ssl=1" width="300"><img src="https://blogs.windows.com/wp-content/uploads/prod/2020/08/windows-logo-social.png" width="300">
-
 
 As I pursued my studies in electronics, I discovered the fascinating world of Embedded systems. I was captivated by the idea of small devices that could automate everything and make our lives easier. I enjoyed the challenge of creating programs to perform specific tasks and bring new ideas to life.
 
@@ -10,9 +11,17 @@ Along the way, I realized that mechanisms have similar principles to software pr
 
 As I continued to learn more about technology, I discovered the perfect blend of these three elements in Artificial Intelligence (AI). AI has the power to create complete projects that can automate a wide range of tasks and improve our lives in countless ways.
 
+***Here, I will display skills specifically for programmers.
+
+<h2>Languages</h2>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" width="50">&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="50">&nbsp;<img src="https://cdn.worldvectorlogo.com/logos/c-1.svg" width="50">&nbsp;<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEP5qP63YWdtCWRKO42_6JYgnZTaUh-HqWGA&usqp=CAU" width="50"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="50"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="50"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50">
 
 
 
+<h2>Tools</h2>
+
+<img src="https://olimex.files.wordpress.com/2017/06/arduino-logo-circle-thumb.png?w=584" width="50">&nbsp;<img src="https://pic4.zhimg.com/v2-5ee59ad347ccef2d6fa2e030b014da3f_ipico.jpg" width="50">&nbsp;<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUT9MI40D8PZ6BJRiWgfpMxXV2p6bBW1EisAgXeDglLKUSSsOLHOJysY5epyb0SlAeM5k&usqp=CAU" width="50">&nbsp;<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRv90odFZigOXVqzpieh2RrNhDEB5VRrcZTGyLQ8gLs7fDNii-INElQiTdOe9IDPVq6TR4&usqp=CAU" width="50">&nbsp;<img src="https://camo.githubusercontent.com/b861b92581ad5a7b81147073d729eda727f71985d72f3dd198e0afd792a6f9de/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f74656e736f72666c6f772f74656e736f72666c6f772d69636f6e2e737667" width="50">&nbsp;<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5ygaaX2L3hje4OFM6PnE_MZfiarfSkvU-l7JNvjAwLOqqDZzxJW0Wb17DJN1j0w8ZOiY&usqp=CAU" width="50"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKwnziTwVcL7pPn1fPvVVnx--2UdIrlSGRaQ&usqp=CAU" width="70"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_n9APHG2SZT_sNZvh28eD7Gkgfq2gqFvXdg&usqp=CAU" width="50">
 
 
 

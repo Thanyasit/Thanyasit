@@ -11,6 +11,10 @@ Along the way, I realized that mechanisms have similar principles to software pr
 
 As I continued to learn more about technology, I discovered the perfect blend of these three elements in Artificial Intelligence (AI). AI has the power to create complete projects that can automate a wide range of tasks and improve our lives in countless ways.
 
+I am someone who strives to work hard in everything I do. I believe that hard work is the key to success, and I am constantly pushing myself to improve and achieve my goals. I understand that success doesn't come easy, and that it requires dedication, discipline, and a willingness to put in the effort. I am not afraid of hard work, and I am always willing to go the extra mile to achieve my objectives.
+
+I am a self-learner, constantly seeking new knowledge and skills to improve myself. Through various resources such as online courses, books, and tutorials, I am able to expand my knowledge and develop new competencies. Self-learning has allowed me to take control of my own education and pursue my interests and passions on my own terms. I believe that continuous self-learning is essential in a rapidly changing world, and I am committed to developing and refining my skills through this process.
+
 ***Here, I will display skills specifically for programmers.
 
 <h2>Languages</h2>
@@ -22,6 +26,8 @@ As I continued to learn more about technology, I discovered the perfect blend of
 <h2>Tools</h2>
 
 <img src="https://olimex.files.wordpress.com/2017/06/arduino-logo-circle-thumb.png?w=584" width="50">&nbsp;<img src="https://pic4.zhimg.com/v2-5ee59ad347ccef2d6fa2e030b014da3f_ipico.jpg" width="50">&nbsp;<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUT9MI40D8PZ6BJRiWgfpMxXV2p6bBW1EisAgXeDglLKUSSsOLHOJysY5epyb0SlAeM5k&usqp=CAU" width="50">&nbsp;<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRv90odFZigOXVqzpieh2RrNhDEB5VRrcZTGyLQ8gLs7fDNii-INElQiTdOe9IDPVq6TR4&usqp=CAU" width="50">&nbsp;<img src="https://camo.githubusercontent.com/b861b92581ad5a7b81147073d729eda727f71985d72f3dd198e0afd792a6f9de/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f74656e736f72666c6f772f74656e736f72666c6f772d69636f6e2e737667" width="50">&nbsp;<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5ygaaX2L3hje4OFM6PnE_MZfiarfSkvU-l7JNvjAwLOqqDZzxJW0Wb17DJN1j0w8ZOiY&usqp=CAU" width="50"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKwnziTwVcL7pPn1fPvVVnx--2UdIrlSGRaQ&usqp=CAU" width="70"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_n9APHG2SZT_sNZvh28eD7Gkgfq2gqFvXdg&usqp=CAU" width="50">
+
+<h2>My Project</h2>
 
 
 

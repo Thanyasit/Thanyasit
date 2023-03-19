@@ -11,8 +11,10 @@ Along the way, I realized that mechanisms have similar principles to software pr
 
 As I continued to learn more about technology, I discovered the perfect blend of these three elements in Artificial Intelligence (AI). AI has the power to create complete projects that can automate a wide range of tasks and improve our lives in countless ways.
 
+<h4>Work hard</h4>
 I am someone who strives to work hard in everything I do. I believe that hard work is the key to success, and I am constantly pushing myself to improve and achieve my goals. I understand that success doesn't come easy, and that it requires dedication, discipline, and a willingness to put in the effort. I am not afraid of hard work, and I am always willing to go the extra mile to achieve my objectives.
 
+<h4>Self-learner</h4>
 I am a self-learner, constantly seeking new knowledge and skills to improve myself. Through various resources such as online courses, books, and tutorials, I am able to expand my knowledge and develop new competencies. Self-learning has allowed me to take control of my own education and pursue my interests and passions on my own terms. I believe that continuous self-learning is essential in a rapidly changing world, and I am committed to developing and refining my skills through this process.
 
 ***Here, I will display skills specifically for programmers.

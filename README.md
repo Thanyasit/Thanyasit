@@ -16,8 +16,7 @@ I am someone who strives to work hard in everything I do. I believe that hard wo
 
 <h4>Self-learner</h4>
 I am a self-learner, constantly seeking new knowledge and skills to improve myself. Through various resources such as online courses, books, and tutorials, I am able to expand my knowledge and develop new competencies. Self-learning has allowed me to take control of my own education and pursue my interests and passions on my own terms. I believe that continuous self-learning is essential in a rapidly changing world, and I am committed to developing and refining my skills through this process.
-
-***Here, I will display skills specifically for programmers.
+<b>**Here, I will display skills specifically for programmers.</b>
 
 <h2>Languages</h2>
 

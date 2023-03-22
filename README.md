@@ -11,6 +11,12 @@ Along the way, I realized that mechanisms have similar principles to software pr
 
 As I continued to learn more about technology, I discovered the perfect blend of these three elements in Artificial Intelligence (AI). AI has the power to create complete projects that can automate a wide range of tasks and improve our lives in countless ways.
 
+Throughout my journey of learning to code, each project I undertook was a stepping stone towards my ultimate goal of becoming a proficient programmer. Starting with the low-level Assembly language, I slowly built up my knowledge and skills by learning higher-level languages like C, C++, and MATLAB. As I delved deeper into the world of programming, I discovered the power of Python and the vast array of applications it offers.
+
+In my pursuit of knowledge, I also learned web development languages such as JavaScript, CSS, and HTML, which allowed me to create interactive and engaging websites. Through each project, I encountered challenges that tested my problem-solving skills and helped me grow as a programmer.
+
+As I continue to learn and expand my skill set, I look forward to tackling new and exciting projects that challenge me to push my limits as a programmer.
+
 <h4>Work hard</h4>
 I am someone who strives to work hard in everything I do. I believe that hard work is the key to success, and I am constantly pushing myself to improve and achieve my goals. I understand that success doesn't come easy, and that it requires dedication, discipline, and a willingness to put in the effort. I am not afraid of hard work, and I am always willing to go the extra mile to achieve my objectives.
 
